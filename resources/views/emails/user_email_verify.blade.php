@@ -1,0 +1,1 @@
+<p>Verification Code : {{ $data }}</p>
